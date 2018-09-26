@@ -2,9 +2,9 @@
 // Create a function showAddress(address) that displays all the values.
 
 const address = {
-    street: '39849 Cyrus Ln.',
-    city: 'Palmdale',
-    zipCode: 93551
+    street: '444444 Cyrus Ln.',
+    city: 'hhhhhh',
+    zipCode: 22222
 };
 
 function showAddress(address) {
@@ -20,7 +20,7 @@ function createAdress(street, city, zipCode) {
         street, city, zipCode
     };
 }
-console.log(createAdress('9841 Airport Blvd.', 'Los Angeles', 90021));
+console.log(createAdress('555555 Airport Blvd.', 'Los Angeles', 90021));
 
 // Initialize the address object using a Constructor Function
 function Address(street, city, zipCode){
@@ -29,8 +29,8 @@ function Address(street, city, zipCode){
     this.zipCode = zipCode;
     return this.street, this.city, this.zipCode;
 }
-let work = new Address('9841 airport blvd.', 'los angeles', '90045');
-let home = new Address('9841 airport blvd.', 'los angeles', '90045');
+let work = new Address('5555 airport blvd.', 'los angeles', '90045');
+let home = new Address('5555 airport blvd.', 'los angeles', '90045');
 console.log(work);
 
 // Exercise #3: make 2 functions. The first areEqual(address1, address2) checks the properites of each object return true or false
