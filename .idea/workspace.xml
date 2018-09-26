@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="544b2cd6-ecbe-4ea0-8593-f1a2475797e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/exercisesTwo.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercisesTwo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stopWatch.js" beforeDir="false" afterPath="$PROJECT_DIR$/stopWatch.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,12 +36,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="25267" />
+          <entry key="js" value="25363" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="25267" />
+          <entry key="JavaScript" value="25363" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -104,8 +104,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stopWatch.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+            <state relative-caret-position="107">
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -126,9 +126,9 @@
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/functionStuff.js" />
         <option value="$PROJECT_DIR$/arrayStuff.js" />
-        <option value="$PROJECT_DIR$/stopWatch.js" />
         <option value="$PROJECT_DIR$/oop.js" />
         <option value="$PROJECT_DIR$/exercisesTwo.js" />
+        <option value="$PROJECT_DIR$/stopWatch.js" />
       </list>
     </option>
   </component>
@@ -194,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.oop.js">
+  <component name="RunManager" selected="Node.js.stopWatch.js">
     <configuration name="arrayStuff.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="arrayStuff.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -219,8 +219,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.oop.js" />
         <item itemvalue="Node.js.stopWatch.js" />
+        <item itemvalue="Node.js.oop.js" />
         <item itemvalue="Node.js.functionStuff.js" />
         <item itemvalue="Node.js.arrayStuff.js" />
         <item itemvalue="Node.js.exercisesTwo.js" />
@@ -240,23 +240,23 @@
       <workItem from="1537470056084" duration="8100000" />
       <workItem from="1537540833533" duration="117000" />
       <workItem from="1537589607966" duration="12231000" />
-      <workItem from="1537904903894" duration="6340000" />
+      <workItem from="1537904903894" duration="7027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26788000" />
+    <option name="totallyTimeSpent" value="27475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="450" y="23" width="1089" height="698" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18913858" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18913858" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32838285" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32838285" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -320,8 +320,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stopWatch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        <state relative-caret-position="107">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
         </state>
       </provider>
     </entry>

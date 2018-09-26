@@ -19,9 +19,12 @@ function StopWatch() {
         startTime = 0;
         endTime = 0;
     };
+    let durationCalculation = function(){
+        return endTime - startTime;
+    };
     Object.defineProperty(this, 'duration', {
         get: function () {
-            return endTime-startTime;
+            return durationCalculation();
         }
     });
 }
