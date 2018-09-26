@@ -20,7 +20,17 @@ function Scanner(host, port){
     })
 }
 
-
-for(let p = 1; p < 64000; p++){             // Fully scanned 64,000 ports in 30s on local laptop.
+for(let p = 25000; p < 30000; p++){             // Fully scanned 64,000 ports in 30s on local laptop.
     let scan = new Scanner('localhost', p);
 }
+
+// function Range(){
+//     this.begin = function () {
+//         for(let p = 1; p < 64000; p++){             // Fully scanned 64,000 ports in 30s on local laptop.
+//             let scan = new Scanner('localhost', p);
+//         }
+//     };
+// }
+//
+// let r = new Range;
+// r.begin()
